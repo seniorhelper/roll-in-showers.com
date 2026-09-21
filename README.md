@@ -12,6 +12,9 @@ Upload the contents of this folder to the repository root on the `main` branch. 
 - each named folder — clean-URL page with its own `index.html`
 - `assets/styles.css` — shared responsive design system
 - `assets/site.js` — mobile navigation, subtle reveal motion, and the preserved EmailJS quote form
+- `products/` — product catalog hub plus 21 dedicated product-planning pages
+- `products-data.json` — machine-readable catalog extracted from the supplied Showers4Less source
+- `sitemap/index.html` — crawlable HTML sitemap for people and agents
 - `sitemap.xml`, `robots.txt`, and `llms.txt` — discovery files
 - `SEO-STRATEGY.md` — page architecture, internal-link, evidence, and conversion plan
 - `build-site.mjs` — deterministic source used to generate the static pages
@@ -23,3 +26,5 @@ The existing EmailJS public key, service ID, and template ID from the prior home
 ## Product content
 
 Product examples link to Showers4Less. Confirm live specifications, availability, freight terms, and imagery before making product-specific sales promises.
+
+The product images are currently loaded from Showers4Less CDN URLs, as requested. They can be replaced with local first-party images later without changing the product-page URLs.
