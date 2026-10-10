@@ -28,3 +28,9 @@ The existing EmailJS public key, service ID, and template ID from the prior home
 Product examples link to Showers4Less. Confirm live specifications, availability, freight terms, and imagery before making product-specific sales promises.
 
 The product images are currently loaded from Showers4Less CDN URLs, as requested. They can be replaced with local first-party images later without changing the product-page URLs.
+
+## Update 2026-10-10 (lead-gen round 2)
+
+The static HTML in this repository is now the source of truth. `build-site.mjs` predates the October 2026 rewrite
+(it also never included the slip-resistant floors article), so **do not run it**: it would overwrite the rewritten
+guides, product pages, header logo, form script and sitemap. Edit the HTML pages directly.
