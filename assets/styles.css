@@ -79,3 +79,25 @@ form{border-radius:12px}
 .data-table td a,.compare td a{display:inline-block;padding:6px 0}
 @media(max-width:600px){.data-table caption{display:block;width:100%;padding:0 0 12px}}
 .data-table th a{display:inline-block;padding:10px 0}
+/* BBB seal (Aging Safely profile 90145069) */
+.bbb-seal{display:inline-flex;flex:0 0 auto;line-height:0}
+.bbb-seal img{display:block;height:auto;max-width:100%}
+.bbb-d img{width:160px}
+.bbb-row{display:none}
+.bbb-card{display:inline-flex;flex-direction:column;align-items:flex-start;gap:6px;background:#fff;border-radius:12px;padding:12px 14px;margin-top:18px}
+.bbb-label{font-size:.78rem;font-weight:850;letter-spacing:.06em;text-transform:uppercase;color:#062f44;line-height:1.2}
+.bbb-f img{width:200px}
+.bbb-quote{display:flex;align-items:center;gap:18px;margin-top:26px;padding:16px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.bbb-quote p{margin:0;font-size:.98rem;line-height:1.55}
+.bbb-q img{width:200px}
+.why-asb{background:#f4fbfc;padding:84px 0;border-top:1px solid var(--line)}
+.why-grid{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:56px;align-items:start}
+.why-asb h2{font:700 clamp(2rem,4vw,3.2rem)/1.1 Georgia,serif;color:var(--navy);margin:.25em 0}
+.bbb-v{margin-top:14px}.bbb-v img{width:200px}
+.why-list{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.why-list li{background:#fff;border:1px solid var(--line);border-left:5px solid var(--copper);border-radius:12px;padding:14px 18px;line-height:1.55}
+.why-list b{color:var(--navy)}
+@media(max-width:1023px){.bbb-d{display:none}.bbb-row{display:flex;justify-content:center;align-items:center;gap:12px;padding:6px 16px 8px;border-bottom:1px solid var(--line);background:#fff}.bbb-row span{font-size:.8rem;font-weight:850;color:#062f44}.bbb-m img{height:42px;width:auto}}
+@media(max-width:900px){.why-grid{grid-template-columns:minmax(0,1fr);gap:24px}}
+@media(max-width:600px){.bbb-quote{flex-direction:column;align-items:flex-start}.why-asb{padding:60px 0}}
+.bbb-quote{flex-direction:column;align-items:flex-start;gap:12px}
