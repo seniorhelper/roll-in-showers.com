@@ -3,3 +3,101 @@
 @media(max-width:1000px){.header-main{min-height:92px}.header-call b{font-size:2.2rem}.nav-row nav{justify-content:center;gap:18px}.hero-product>img{height:430px}.product-grid{grid-template-columns:repeat(2,1fr)}.product-hero-grid{gap:34px}.product-facts{grid-template-columns:1fr}}
 @media(max-width:900px){.header-main{min-height:82px}.header-call small{display:none}.header-call b{font-size:1.45rem}.menu{display:block}.nav-row nav{display:none;position:absolute;left:0;right:0;top:100%;background:var(--navy);padding:24px;box-shadow:var(--shadow);flex-direction:column;align-items:stretch}.nav-row nav.open{display:flex}.hero-product>img{height:420px}.product-hero-grid,.product-guide{grid-template-columns:1fr}.product-detail-img img{height:420px}.guide-links{grid-template-columns:1fr}.content-visual{grid-template-columns:1fr}.content-visual span{max-width:none}.sitemap-page ul{columns:1}}
 @media(max-width:600px){.header-main{display:grid;grid-template-columns:1fr auto;gap:10px;padding-block:10px}.brand strong{font-size:1.3rem}.brand span{font-size:.62rem}.header-call{grid-column:1/-1;grid-row:2;align-items:center;border-top:1px solid var(--line);padding-top:9px}.header-call b{font-size:1.75rem}.menu{grid-column:2;grid-row:1}.hero-product>img,.product-detail-img img{height:320px}.product-grid{grid-template-columns:1fr}.product-card .product-img{flex-basis:230px}.catalog-controls{align-items:flex-start;flex-direction:column}.product-facts{grid-template-columns:1fr}.product-guide{padding-block:62px}.content-visual img{height:250px}}
+
+/* ===== Round 2 lead-gen upgrade (2026-10-10): base rules first, media queries after ===== */
+body{font-size:18px;line-height:1.7}
+.brand-logo{display:block;line-height:0;min-width:0}
+.brand-logo .logo{display:block;width:280px;height:auto;max-width:100%}
+.nav-cta{border-radius:10px}
+.hero-actions .button{min-height:52px;border-radius:10px}
+.hero-product{border-radius:12px}
+.answer-card{border-radius:12px}
+form{border-radius:12px}
+.answer-card a{display:inline-block;padding:10px 0;font-weight:800}
+.product-actions a{display:inline-block;padding:8px 0}
+.product-fit-card a{display:block;padding:8px 0}
+.hero-visual-wrap{min-width:0}
+.hero-figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);padding:14px}
+.hero-figure svg{display:block;width:100%;height:auto}
+.hero-figure figcaption{font-size:.86rem;color:var(--muted);padding:10px 6px 2px;line-height:1.5}
+.trust-row li{font-size:.92rem}
+.data-table{margin:24px 0}
+.data-table table{border-collapse:collapse;width:100%;font-size:.98rem}
+.data-table caption{caption-side:bottom;text-align:left;font-size:.84rem;color:var(--muted);padding-top:10px}
+.data-table th,.data-table td{text-align:left;vertical-align:top;padding:14px 16px;border-bottom:1px solid var(--line)}
+.data-table thead th{background:var(--navy);color:#fff;font-size:.9rem}
+.data-table tbody th{color:var(--navy);font-weight:800}
+.data-table tbody tr:nth-child(even){background:#f7fcfc}
+.compare .data-table table{min-width:0}
+.steps{counter-reset:s;list-style:none;padding:0;margin:20px 0}
+.steps li{counter-increment:s;position:relative;padding:16px 16px 16px 64px;border:1px solid var(--line);border-radius:12px;margin:12px 0;background:#fff}
+.steps li:before{content:counter(s);position:absolute;left:16px;top:14px;width:34px;height:34px;border-radius:8px;background:var(--copper);color:#fff;font-weight:900;display:grid;place-items:center}
+.steps li a{display:inline-block;color:var(--navy);padding:2px 0}
+.sources .checked{font-size:.86rem;color:#b9d9df}
+.source-list a{border-radius:10px}
+.related.alt{background:#fff}
+.form-status{font-weight:800;margin:0;min-height:1.2em}
+.form-status.ok{color:#11662f}
+.form-status.err{color:#a1260f}
+.collection-hero{padding:56px 0 30px}
+.content-section ol:not(.steps){padding-left:1.3em}
+.product-facts{grid-template-columns:repeat(3,minmax(0,1fr))}
+.product-hero h1,.hero h1{overflow-wrap:break-word}
+@media(max-width:900px){
+ .hero-copy{order:1}.hero-product,.hero-visual-wrap{order:2}
+ .product-hero-grid{grid-template-columns:minmax(0,1fr)}
+ .product-facts{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .brand-logo .logo{width:250px}
+}
+@media(max-width:600px){
+ body{font-size:18px}
+ .brand-logo .logo{width:min(232px,62vw)}
+ .header-main{gap:8px}
+ .menu{min-height:46px;min-width:72px;font-size:1rem}
+ .hero h1{font-size:2.4rem}
+ .product-hero h1{font-size:2.05rem;line-height:1.08}
+ .product-facts{grid-template-columns:minmax(0,1fr)}
+ .data-table thead{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}
+ .data-table table,.data-table tbody,.data-table tr,.data-table th,.data-table td{display:block;width:100%}
+ .data-table tr{border:1px solid var(--line);border-radius:12px;margin:0 0 12px;background:#fff;overflow:hidden}
+ .data-table tbody tr:nth-child(even){background:#fff}
+ .data-table tbody th{background:#edf9fa;border-bottom:1px solid var(--line)}
+ .data-table td{border-bottom:0;padding:8px 16px 10px}
+ .data-table td[data-label]:before{content:attr(data-label);display:block;font-size:.76rem;font-weight:850;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+ .steps li{padding-left:58px}
+ .hero-figure{padding:8px}
+}
+/* real Aging Safely logo: light header version on white header; reversed transparent version on dark footer */
+.brand-logo{display:flex;flex-direction:column;align-items:flex-start;gap:4px;line-height:1}
+.brand-logo .logo{width:280px;height:auto}
+.brand-site{font-size:.78rem;font-weight:850;letter-spacing:.16em;text-transform:uppercase;color:#087985;padding-left:4px}
+.brand-foot{display:flex;flex-direction:column;align-items:flex-start;gap:6px;text-decoration:none}
+.brand-foot img{width:260px;height:auto;max-width:100%;display:block}
+.brand-foot .brand-site{color:#7edce0}
+@media(max-width:900px){.brand-logo .logo{width:250px}}
+@media(max-width:600px){.brand-logo .logo{width:min(232px,62vw)}.brand-site{font-size:.64rem}}
+.data-table td a,.compare td a{display:inline-block;padding:6px 0}
+@media(max-width:600px){.data-table caption{display:block;width:100%;padding:0 0 12px}}
+.data-table th a{display:inline-block;padding:10px 0}
+/* BBB seal (Aging Safely profile 90145069) */
+.bbb-seal{display:inline-flex;flex:0 0 auto;line-height:0}
+.bbb-seal img{display:block;height:auto;max-width:100%}
+.bbb-d img{width:160px}
+.bbb-row{display:none}
+.bbb-card{display:inline-flex;flex-direction:column;align-items:flex-start;gap:6px;background:#fff;border-radius:12px;padding:12px 14px;margin-top:18px}
+.bbb-label{font-size:.78rem;font-weight:850;letter-spacing:.06em;text-transform:uppercase;color:#062f44;line-height:1.2}
+.bbb-f img{width:200px}
+.bbb-quote{display:flex;align-items:center;gap:18px;margin-top:26px;padding:16px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.bbb-quote p{margin:0;font-size:.98rem;line-height:1.55}
+.bbb-q img{width:200px}
+.why-asb{background:#f4fbfc;padding:84px 0;border-top:1px solid var(--line)}
+.why-grid{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:56px;align-items:start}
+.why-asb h2{font:700 clamp(2rem,4vw,3.2rem)/1.1 Georgia,serif;color:var(--navy);margin:.25em 0}
+.bbb-v{margin-top:14px}.bbb-v img{width:200px}
+.why-list{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.why-list li{background:#fff;border:1px solid var(--line);border-left:5px solid var(--copper);border-radius:12px;padding:14px 18px;line-height:1.55}
+.why-list b{color:var(--navy)}
+@media(max-width:1023px){.bbb-d{display:none}.bbb-row{display:flex;justify-content:center;align-items:center;gap:12px;padding:6px 16px 8px;border-bottom:1px solid var(--line);background:#fff}.bbb-row span{font-size:.8rem;font-weight:850;color:#062f44}.bbb-m img{height:42px;width:auto}}
+@media(max-width:900px){.why-grid{grid-template-columns:minmax(0,1fr);gap:24px}}
+@media(max-width:600px){.bbb-quote{flex-direction:column;align-items:flex-start}.why-asb{padding:60px 0}}
+.bbb-quote{flex-direction:column;align-items:flex-start;gap:12px}
