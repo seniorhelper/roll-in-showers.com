@@ -5,7 +5,9 @@
 Publisher: Aging Safely Baths & More (installer of walk-in tubs and roll-in showers since 2012; installed in one day; all 50 states, supply-only shipping to Canada)
 Provider website: https://www.agingsafelybaths.com/
 Phone: 1-888-779-2284
-Editorial update: 2026-10-10
+Machine-readable business facts: https://www.agingsafelybaths.com/facts.json
+Process: quotes can start by phone or from photos; once a customer chooses a shower and places a deposit, an Aging Safely Baths technician does a full in-person site visit (measurements, photos, options, questions) before installation day.
+Editorial update: 2026-11-03
 
 ## Key facts used on this site
 - Standard roll-in shower (2010 ADA Standards §608.2.2): 30 in. wide × 60 in. deep minimum clear inside, 60 in. entry, 30 × 60 in. clearance; threshold ½ in. max (§608.7).
@@ -25,8 +27,8 @@ Editorial update: 2026-10-10
 - [ADA Showers: What the Standards Actually Require](https://roll-in-showers.com/ada-showers/): What the 2010 ADA Standards require for roll-in and transfer showers: sizes, ½-inch thresholds, seats, grab bars, controls and the 59-inch hand shower.
 - [Roll-In Shower Dimensions: Measure the Whole Approach](https://roll-in-showers.com/roll-in-shower-dimensions/): Roll-in shower dimensions explained: 30×60 and 36×60 ADA sizes, the 36×36 transfer shower, door widths, turning space, and how to measure your bathroom.
 - [Roll-In Shower Cost: Real Budget Factors and Quote Checklist](https://roll-in-showers.com/roll-in-shower-cost/): What a roll-in shower conversion costs: published national ranges from Angi, Fixr and This Old House, the factors that move a quote, and how to compare bids.
-- [Roll-In Shower Installation: Process, Trades and Timeline](https://roll-in-showers.com/roll-in-shower-installation/): Roll-in shower installation step by step: assessment, demolition, floor and drain work, waterproofing, pan and walls, fixtures, grab bars and testing.
-- [Tub-to-Shower Conversion for a Lower, Easier Entry](https://roll-in-showers.com/tub-to-shower-conversion/): Converting a bathtub to a roll-in shower: alcove measurements, drain position, curbless options, valve height, walls, resale questions and cost ranges.
+- [Roll-In Shower Installation: 8 Steps, Timeline & Prep](https://roll-in-showers.com/roll-in-shower-installation/): Roll-in shower installation in 8 steps: the site visit, demolition, floor and drain work, waterproofing, pan and walls, grab bars, seat and water testing.
+- [Curbless Tub-to-Shower Conversion for a Lower, Easier Entry](https://roll-in-showers.com/tub-to-shower-conversion/): Converting a bathtub to a roll-in shower: alcove measurements, drain position, curbless options, valve height, walls, resale questions and cost ranges.
 - [Walk-In or Roll-In? Planning for Changing Mobility](https://roll-in-showers.com/walk-in-showers-for-seniors/): How changing mobility affects shower choice: when a walk-in is enough, when to plan a roll-in for a walker or wheelchair, and how to future-proof it.
 - [Shower Seats and Benches: Size, Support and Placement](https://roll-in-showers.com/shower-seats-benches/): Choose a roll-in shower seat: folding wall seats, L-shaped seats, built-in benches, shower chairs and transfer benches, with heights and blocking.
 - [Roll-In Shower Grab Bars, Controls and Accessories](https://roll-in-showers.com/grab-bars-accessories/): Grab bar heights, diameters and layouts for roll-in showers, plus hand showers, anti-scald valves, lever controls, curtains and storage you can reach seated.
