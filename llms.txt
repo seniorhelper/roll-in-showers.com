@@ -7,7 +7,7 @@ Provider website: https://www.agingsafelybaths.com/
 Phone: 1-888-779-2284
 Machine-readable business facts: https://www.agingsafelybaths.com/facts.json
 Process: quotes can start by phone or from photos; once a customer chooses a shower and places a deposit, an Aging Safely Baths technician does a full in-person site visit (measurements, photos, options, questions) before installation day.
-Editorial update: 2026-11-03
+Editorial update: 2026-11-17
 
 ## Key facts used on this site
 - Standard roll-in shower (2010 ADA Standards §608.2.2): 30 in. wide × 60 in. deep minimum clear inside, 60 in. entry, 30 × 60 in. clearance; threshold ½ in. max (§608.7).
@@ -18,6 +18,7 @@ Editorial update: 2026-11-03
 - Original Medicare generally does not cover bathroom remodels; VA HISA, SAH/SHA, Medicaid HCBS waivers, USDA 504 and IRS Pub 502 are explained with official links.
 
 ## Guides
+- [Tub to Shower Conversion Drain Size: 1-1/2 or 2 Inch?](https://roll-in-showers.com/tub-to-shower-conversion-drain-size/): IRC, IPC and UPC trap sizes for the tub you remove and the shower you add, shower gpm tiers, slab vs crawlspace drain moves, and a pre-check before buying a pan.
 - [Roll-In Showers, Clearly Explained](https://roll-in-showers.com/): Plan roll-in showers with clear guidance on entry design, wheelchair approach, kit and pan choice. Compare options, avoid common mistakes, and request help.
 - [Roll-In Shower Kits: What You Get and What You Still Need](https://roll-in-showers.com/roll-in-shower-kits/): Compare roll-in shower kits and packages: pan plus wall system, multi-piece vs one-piece, what a kit leaves out, and how to check fit before you order.
 - [Roll-In Shower Pans: The Foundation of a Barrier-Free Shower](https://roll-in-showers.com/roll-in-shower-pans/): How to choose a roll-in shower pan: footprints from 36×36 to 60 inches long, center vs trench drains, low vs flush entries, corner and neo-angle shapes.
@@ -25,7 +26,7 @@ Editorial update: 2026-11-03
 - [Wheelchair-to-Shower Transfers: Setting Up a Safer Move](https://roll-in-showers.com/wheelchair-shower-transfer-guide/): How to set up a shower for a safe wheelchair transfer: seat height, approach side, grab bar placement, transfer benches, and when to stop transferring.
 - [Barrier-Free Showers: A Practical Curbless Design Guide](https://roll-in-showers.com/barrier-free-showers/): How barrier-free (curbless) showers work: zero-entry vs low-threshold pans, recessed subfloors, linear vs center drains, waterproofing and splash control.
 - [ADA Showers: What the Standards Actually Require](https://roll-in-showers.com/ada-showers/): What the 2010 ADA Standards require for roll-in and transfer showers: sizes, ½-inch thresholds, seats, grab bars, controls and the 59-inch hand shower.
-- [Roll-In Shower Dimensions: Measure the Whole Approach](https://roll-in-showers.com/roll-in-shower-dimensions/): Roll-in shower dimensions explained: 30×60 and 36×60 ADA sizes, the 36×36 transfer shower, door widths, turning space, and how to measure your bathroom.
+- [Roll-In Shower Dimensions: Measure the Whole Approach](https://roll-in-showers.com/roll-in-shower-dimensions/): Includes an interactive roll-in shower size checker. Roll-in shower dimensions explained: 30×60 and 36×60 ADA sizes, the 36×36 transfer shower, door widths, turning space, and how to measure your bathroom.
 - [Roll-In Shower Cost: Real Budget Factors and Quote Checklist](https://roll-in-showers.com/roll-in-shower-cost/): What a roll-in shower conversion costs: published national ranges from Angi, Fixr and This Old House, the factors that move a quote, and how to compare bids.
 - [Roll-In Shower Installation: 8 Steps, Timeline & Prep](https://roll-in-showers.com/roll-in-shower-installation/): Roll-in shower installation in 8 steps: the site visit, demolition, floor and drain work, waterproofing, pan and walls, grab bars, seat and water testing.
 - [Curbless Tub-to-Shower Conversion for a Lower, Easier Entry](https://roll-in-showers.com/tub-to-shower-conversion/): Converting a bathtub to a roll-in shower: alcove measurements, drain position, curbless options, valve height, walls, resale questions and cost ranges.
